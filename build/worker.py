@@ -24,7 +24,7 @@ def create_readme(data):
 
 
 if __name__ == "__main__":
-    data = get_data('data\\data.json')
+    data = get_data('data/data.json')
     data = create_readme(data)
     print(data)
     with open('README.md', 'w') as f:
