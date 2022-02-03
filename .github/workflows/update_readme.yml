@@ -1,0 +1,24 @@
+name: "Validate links"
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+
+jobs:
+  test:
+    name: 'Update README and push to GitHub'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README.md according to the data in data/data.json file
+        run: python build/worker.py
+
+      - name: Commit files to GitHub
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update README.md"
