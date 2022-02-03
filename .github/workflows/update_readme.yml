@@ -8,7 +8,7 @@ on:
 
 
 jobs:
-  test:
+  update_readme:
     name: 'Update README and push to GitHub'
     runs-on: ubuntu-latest
     steps:
