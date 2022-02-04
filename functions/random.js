@@ -15,7 +15,11 @@ exports.handler = async function (event, context) {
         body: JSON.stringify({
             title: result.title,
             url: url
-        })
+        }),
+        headers: {
+            'Content-Type': 'application/json',
+            'Access-Control-Allow-Origin': '*',
+        },
     };
 }
 
