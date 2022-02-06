@@ -220,4 +220,9 @@ The weekend is the unifying factor for my entire team.
 When clients say that the software solution is too complex, this is what I picture them doing.
 ![](./images/45.gif)
 
+--------------------------------------------------------------------------
+
+May the dark IDE's rise 😂
+![](./image/46.jpg)
+
 -------------------------------------
