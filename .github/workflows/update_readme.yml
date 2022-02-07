@@ -19,8 +19,6 @@ jobs:
         run: python build/worker.py
       - name: Create backup
         uses: codewithpom/ipfs-backup-github-action@v1.0.0alpha
-        
-      - name: Commit
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update README.md"
