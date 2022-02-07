@@ -225,4 +225,14 @@ When clients say that the software solution is too complex, this is what I pictu
 May the dark IDE's rise 😂
 ![](./images/46.jpg)
 
+--------------------------------------------------------------------------
+
+Poor kid
+![](./images/47.jpg)
+
+--------------------------------------------------------------------------
+
+The good thing about programming memes
+![](./images/48.png)
+
 -------------------------------------
