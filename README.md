@@ -235,4 +235,14 @@ Poor kid
 The good thing about programming memes
 ![](./images/48.png)
 
+--------------------------------------------------------------------------
+
+Programmers while Sleeping
+![](./images/49.jpg)
+
+--------------------------------------------------------------------------
+
+Story of every Software Developer
+![](./images/50.jpg)
+
 -------------------------------------
