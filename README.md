@@ -245,4 +245,19 @@ Programmers while Sleeping
 Story of every Software Developer
 ![](./images/50.jpg)
 
+--------------------------------------------------------------------------
+
+no context needed
+![](https://qphs.fs.quoracdn.net/main-qimg-ea6891eb5d65cadd840cef4f222c6d7e-lq)
+
+--------------------------------------------------------------------------
+
+
+![](https://qphs.fs.quoracdn.net/main-qimg-8cb29580b21460757f13e22077adced5-lq)
+
+--------------------------------------------------------------------------
+
+fair enough
+![](https://qphs.fs.quoracdn.net/main-qimg-1967617da52ac803e3440ec9bff3a77e-lq)
+
 -------------------------------------
