@@ -260,4 +260,84 @@ no context needed
 fair enough
 ![](https://qphs.fs.quoracdn.net/main-qimg-1967617da52ac803e3440ec9bff3a77e-lq)
 
+--------------------------------------------------------------------------
+
+Why are they doing this??
+![](https://preview.redd.it/9ir7y82xegg81.gif?format=mp4&s=98b2b8662b3bb8d61eb0baa1fdbe88e617441c5b)
+
+--------------------------------------------------------------------------
+
+So true...
+![](https://preview.redd.it/gppw2tftjeg81.jpg?width=640&crop=smart&auto=webp&s=bf6df15aa964aa4259007b1909d631a55eb16586)
+
+--------------------------------------------------------------------------
+
+Android studio....
+![](https://preview.redd.it/8lvah41dteg81.jpg?width=640&crop=smart&auto=webp&s=528e40ab12d28913b707b7ad730e272c06adb216)
+
+--------------------------------------------------------------------------
+
+
+![](https://preview.redd.it/s04vas5pjhg81.png?width=640&crop=smart&auto=webp&s=383df2f4adac6ee81d6360383b6ad945d8f9cdef)
+
+--------------------------------------------------------------------------
+
+i have never felt so useless
+![](https://preview.redd.it/fv6uusnzmag81.jpg?width=640&crop=smart&auto=webp&s=43d9235f35f61ed65b51ff32e36fe41055de0664)
+
+--------------------------------------------------------------------------
+
+every damn time...
+![](https://i.redd.it/8gc19ysa3ag81.jpg)
+
+--------------------------------------------------------------------------
+
+
+![](https://preview.redd.it/04zdhb46x9g81.png?width=640&crop=smart&auto=webp&s=91c055cdb765b97563d8161341e816eed89f14ab)
+
+--------------------------------------------------------------------------
+
+Github copilot is starting to worry me
+![](https://i.redd.it/bbjt6sk28eg81.png)
+
+--------------------------------------------------------------------------
+
+Snake
+![](https://preview.redd.it/m1gpm9uuq7g81.jpg?width=640&crop=smart&auto=webp&s=8b6651a4647e8bce5e8538863d41de321907385c)
+
+--------------------------------------------------------------------------
+
+Library
+![](https://preview.redd.it/tkjf5sxkq7g81.jpg?width=960&crop=smart&auto=webp&s=8380e79cf18a27728d46849604d878ee8c6d6c06)
+
+--------------------------------------------------------------------------
+
+Too real...
+![](https://preview.redd.it/9s0s5i0m9bg81.jpg?width=640&crop=smart&auto=webp&s=96462f4d6834d65f688d4ba53fe331cd86c76189)
+
+--------------------------------------------------------------------------
+
+Just now…this is the exact moment I realized I’m not that good of a programmer.
+![](https://preview.redd.it/vhan6cqjlag81.jpg?width=640&crop=smart&auto=webp&s=ca2d0d731d98316642359308a9f6c2639383661e)
+
+--------------------------------------------------------------------------
+
+hmmm
+![](https://preview.redd.it/omeelokhw5g81.jpg?width=640&crop=smart&auto=webp&s=99e6ba7cf015dc7ab077aa0387f7b682b3ab7852)
+
+--------------------------------------------------------------------------
+
+Octocat
+![](https://preview.redd.it/unkl0lced8g81.jpg?width=640&crop=smart&auto=webp&s=f82a2faf0531016a5c90a430a684ad76e1c232a5)
+
+--------------------------------------------------------------------------
+
+Money
+![](https://preview.redd.it/e2ivyiboh4g81.jpg?width=640&crop=smart&auto=webp&s=99859a8df69f1b5d46872a7d99cbd5af3410f44d)
+
+--------------------------------------------------------------------------
+
+It won't be easy even after 100 times
+![](https://i.redd.it/5x65mx8ut2g81.jpg)
+
 -------------------------------------
