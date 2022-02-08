@@ -316,7 +316,7 @@ fair enough
 
 Why are they doing this??
 
-![](https://preview.redd.it/9ir7y82xegg81.gif?format=mp4&s=98b2b8662b3bb8d61eb0baa1fdbe88e617441c5b)
+![](./images/ezgif-6-840932770a.gif)
 
 --------------------------------------------------------------------------
 
