@@ -16,6 +16,7 @@ def create_readme(data):
         content_to_be_added += "\n\n"
         content_to_be_added += i['title']
         content_to_be_added += "\n"
+        content_to_be_added += "\n"
         content_to_be_added += f"![]({i['url']})"
         content_to_be_added += "\n\n"
         content_to_be_added += "-------------------------------------"
