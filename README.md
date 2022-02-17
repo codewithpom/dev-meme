@@ -218,7 +218,7 @@ I don’t trust people who code in light mode.
 
 --------------------------------------------------------------------------
 
- Is it weird that we have to worry about American vs. British spellings in a coding language?
+Is it weird that we have to worry about American vs. British spellings in a coding language?
 
 ![](./images/38.png)
 
@@ -296,7 +296,7 @@ Story of every Software Developer
 
 --------------------------------------------------------------------------
 
-no context needed
+
 
 ![](https://qphs.fs.quoracdn.net/main-qimg-ea6891eb5d65cadd840cef4f222c6d7e-lq)
 
