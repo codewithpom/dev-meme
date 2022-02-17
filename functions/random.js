@@ -9,7 +9,7 @@ function choose(choices) {
 exports.handler = async function (event, context) {
     const result = await choose(memes);
     let url;
-    if (!result.startsWith("https://")) {
+    if (!result.url.startsWith("https://")) {
         url = "https://eager-meitner-f8adb8.netlify.app/" + result.url.substring(1);
     } else {
         url = result.url;
