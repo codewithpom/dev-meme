@@ -8,8 +8,12 @@ function choose(choices) {
 
 exports.handler = async function (event, context) {
     const result = await choose(memes);
-    // remove the first dot from the url
-    const url = result.url.substring(1);
+    if (!result.startsWith("https://")) {
+        const url = "https://eager-meitner-f8adb8.netlify.app/" + result.url.substring(1);
+    } else {
+        const url = result.url;
+    }
+
     return {
         statusCode: 200,
         body: JSON.stringify({
