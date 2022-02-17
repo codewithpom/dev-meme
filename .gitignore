@@ -1,0 +1,5 @@
+# IDE specific
+.vscode/
+.idea/
+*.swp
+
