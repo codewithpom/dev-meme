@@ -498,4 +498,58 @@ I am the boss
 
 ![](./images/68.png)
 
+--------------------------------------------------------------------------
+
+The secret truth
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--Pdde2xfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/niyebzdpb8dtawlbfuzt.jpg)
+
+--------------------------------------------------------------------------
+
+People do this in Hacktoberfest 😂
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--QfyTqKi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.redd.it/my9j9gezcf691.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Dfcc0bab63228d963523fcceab8e9d7d09ca7fc69)
+
+--------------------------------------------------------------------------
+
+Relatable
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--ONXVBZP1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yct6imbgnha6gw30dg9j.jpg)
+
+--------------------------------------------------------------------------
+
+Never get trapped into the interviewers.
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--PiUUgqns--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zvlbj1vzo4bc2yfrvz0i.jpg)
+
+--------------------------------------------------------------------------
+
+Back-end talking to Front-end be like.
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--d4AaO7x3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.devdojo.com/fun/March2022/07ezjk7wvxp81.png)
+
+--------------------------------------------------------------------------
+
+Always look what you left behind
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--vqAu71yB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/kdt4yknzql591.png)
+
+--------------------------------------------------------------------------
+
+Me in real life
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--fZ2Yl3_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://starecat.com/content/wp-content/uploads/my-boss-thanking-me-for-fixing-the-bugs-in-production-me-reverting-my-last-commit.jpg)
+
+--------------------------------------------------------------------------
+
+Legendary developers.
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--fZ2Yl3_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://starecat.com/content/wp-content/uploads/my-boss-thanking-me-for-fixing-the-bugs-in-production-me-reverting-my-last-commit.jpg)
+
+--------------------------------------------------------------------------
+
+Fixing bug in production.
+
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--6XAKRkvr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/EZgVQVBWAAYzfG9.jpg)
+
 -------------------------------------
