@@ -3,3 +3,6 @@
 .idea/
 *.swp
 
+# Python
+venv/
+
