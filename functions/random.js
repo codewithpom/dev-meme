@@ -1,13 +1,14 @@
 const memes = require("../data/data.json")
 
 
-function choose(choices) {
+function choose(length) {
     const index = Math.floor(Math.random() * choices.length);
-    return choices[index];
+    return index;
 }
 
 exports.handler = async function (event, context) {
-    const result = await choose(memes);
+    const index = await choose(memes.length);
+    const result = memes[index]
     let url;
     if (!result.url.startsWith("https://")) {
         url = "https://eager-meitner-f8adb8.netlify.app" + result.url.substring(1);
@@ -21,6 +22,7 @@ exports.handler = async function (event, context) {
             title: result.title,
             url: url,
             twitter_hashtags: result.twitter_hashtags,
+            index: index
         }),
         headers: {
             'Content-Type': 'application/json',
