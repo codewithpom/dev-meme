@@ -2,7 +2,7 @@ const memes = require("../data/data.json")
 
 
 function choose(length) {
-    const index = Math.floor(Math.random() * choices.length);
+    const index = Math.floor(Math.random() * length);
     return index;
 }
 
