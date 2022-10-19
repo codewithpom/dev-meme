@@ -11,7 +11,7 @@ exports.handler = async function (event, context) {
         statusCode: 200,
         body: JSON.stringify({
             title: result.title,
-            url: url,
+            url: result.url,
             twitter_hashtags: result.twitter_hashtags,
             index: index
         }),
