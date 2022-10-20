@@ -1,5 +1,5 @@
 [build]
-edge_functions="functions"
+edge_functions="edge-functions"
 
 [[edge_functions]]
 path = "/.netlify/functions/random"
