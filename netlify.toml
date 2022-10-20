@@ -1,11 +1,2 @@
 [build]
-edge_functions="edge-functions"
-
-[[edge_functions]]
-path = "/.netlify/functions/random"
-function = "random"
-
-
-[[edge_functions]]
-path = "/.netlify/functions/getMeme"
-function = "getMeme"
+functions="edge-functions"
