@@ -362,7 +362,7 @@ Too real...
 
 --------------------------------------------------------------------------
 
-Just now…this is the exact moment I realized I’m not that good of a programmer.
+Just now this is the exact moment I realized I'm not that good of a programmer.
 
 ![](https://preview.redd.it/vhan6cqjlag81.jpg?width=640&crop=smart&auto=webp&s=ca2d0d731d98316642359308a9f6c2639383661e)
 
@@ -506,7 +506,7 @@ The secret truth
 
 --------------------------------------------------------------------------
 
-People do this in Hacktoberfest 😂
+People do this in Hacktoberfest !
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--QfyTqKi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.redd.it/my9j9gezcf691.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Dfcc0bab63228d963523fcceab8e9d7d09ca7fc69)
 
@@ -551,5 +551,101 @@ Legendary developers.
 Fixing bug in production.
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--6XAKRkvr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/EZgVQVBWAAYzfG9.jpg)
+
+--------------------------------------------------------------------------
+
+Knew It All Along
+
+![](https://i.pinimg.com/564x/79/ef/b9/79efb9a061f2d90653513a07bed7b55b.jpg)
+
+--------------------------------------------------------------------------
+
+Difference Between Mugles And Programmers
+
+![](https://i.pinimg.com/564x/fe/83/8d/fe838d72e62a9209b272aa06556ce63d.jpg)
+
+--------------------------------------------------------------------------
+
+Don't Laugh
+
+![](https://i.pinimg.com/564x/0d/18/51/0d18513f34ed94ab2429e4f97700d803.jpg)
+
+--------------------------------------------------------------------------
+
+
+
+![](https://i.pinimg.com/564x/86/6d/88/866d881f8105fc106d438c21cbe98746.jpg)
+
+--------------------------------------------------------------------------
+
+
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Jokes-Studying-Software-Engineering-850x1024.jpg)
+
+--------------------------------------------------------------------------
+
+Over-Killing Hello World! Program
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Hello-World-893x1024.jpg)
+
+--------------------------------------------------------------------------
+
+Are you a robot
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg)
+
+--------------------------------------------------------------------------
+
+Bugs And Errors In Code Be Like
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Jokes-Bugs-Errors-Lines-of-Code-854x1024.jpg)
+
+--------------------------------------------------------------------------
+
+Most Inspiring Quote Ever!
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Internet-Explorer-Joke-915x1024.jpg)
+
+--------------------------------------------------------------------------
+
+
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Mark-Zuckerberg-Meme-878x1024.jpg)
+
+--------------------------------------------------------------------------
+
+Corrona VS Programmers
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Memes-Corona-Virus-859x1024.jpg)
+
+--------------------------------------------------------------------------
+
+Engineering College VS YouTube Programming videos
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-YouTube-Programming-Videos-823x1024.jpg)
+
+--------------------------------------------------------------------------
+
+Internet Explorer
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Internet-Explorer-Joke-Meme-1024x954.jpg)
+
+--------------------------------------------------------------------------
+
+Online Courses
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Online-Courses-Memes-1024x933.jpg)
+
+--------------------------------------------------------------------------
+
+Brain Of a Programmer
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Jokes-Programmer-Life-1024x955.jpg)
+
+--------------------------------------------------------------------------
+
+Java And Semicolons
+
+![](https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Java-Jokes-842x1024.jpg)
 
 -------------------------------------
