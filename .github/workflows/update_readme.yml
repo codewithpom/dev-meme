@@ -17,8 +17,8 @@ jobs:
 
       - name: Update README.md according to the data in data/data.json file
         run: python build/worker.py
-      - name: Create backup
-        uses: codewithpom/ipfs-backup-github-action@v1.0.0alpha
+#       - name: Create backup
+#         uses: codewithpom/ipfs-backup-github-action@v1.0.0alpha
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update README.md"
