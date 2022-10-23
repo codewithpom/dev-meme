@@ -10,7 +10,7 @@ exports.handler = async function (event, context) {
     const index = await choose(memes.length);
     const result = memes[index]
     let url;
-    if (!result.url.startsWith("https://")) {
+    if (!result.url.startsWith("https://") && !result.url.startsWith("http://")) {
         url = "https://eager-meitner-f8adb8.netlify.app" + result.url.substring(1);
     } else {
         url = result.url;

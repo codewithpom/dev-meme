@@ -11,7 +11,7 @@
         ]
     },
     {
-        "title": "This is what happens when you decide to trust your clients’ intuitiveness",
+        "title": "This is what happens when you decide to trust your clients\u2019 intuitiveness",
         "url": "./images/2.png",
         "twitter_hashtags": [
             "#Python",
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "title": "Whoever said you can’t define love was wrong.",
+        "title": "Whoever said you can\u2019t define love was wrong.",
         "url": "./images/4.jpg",
         "twitter_hashtags": [
             "#Python",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "title": "I don’t see any problem with this answer, the student deserves those 10 points.",
+        "title": "I don\u2019t see any problem with this answer, the student deserves those 10 points.",
         "url": "./images/5.png",
         "twitter_hashtags": [
             "#Python",
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "title": "Apparently, the phrase ‘good looks sell’ applies to fashion AND software.",
+        "title": "Apparently, the phrase \u2018good looks sell\u2019 applies to fashion AND software.",
         "url": "./images/6.png",
         "twitter_hashtags": [
             "#Python",
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "title": "Why does no one understand my interface? It’s so simple! Also my interface: it’s so simple!",
+        "title": "Why does no one understand my interface? It\u2019s so simple! Also my interface: it\u2019s so simple!",
         "url": "./images/8.png",
         "twitter_hashtags": [
             "#Python",
@@ -134,7 +134,7 @@
         ]
     },
     {
-        "title": "Me: I can code. My Friend: Oh You must be really smart! Me: Yes… but no.",
+        "title": "Me: I can code. My Friend: Oh You must be really smart! Me: Yes\u2026 but no.",
         "url": "./images/13.png",
         "twitter_hashtags": [
             "#Python",
@@ -202,7 +202,7 @@
         ]
     },
     {
-        "title": "The test cases weren’t properly executed, that’s why they failed - no other reason.",
+        "title": "The test cases weren\u2019t properly executed, that\u2019s why they failed - no other reason.",
         "url": "./images/19.png",
         "twitter_hashtags": [
             "#Python",
@@ -213,7 +213,7 @@
         ]
     },
     {
-        "title": "My brain can do multithreading. It’s not good at it, but at least it can do it.",
+        "title": "My brain can do multithreading. It\u2019s not good at it, but at least it can do it.",
         "url": "./images/20.png",
         "twitter_hashtags": [
             "#Python",
@@ -246,7 +246,7 @@
         ]
     },
     {
-        "title": "I don’t know what’s worse, my design skills, or my design after I try to make it with CSS.",
+        "title": "I don\u2019t know what\u2019s worse, my design skills, or my design after I try to make it with CSS.",
         "url": "./images/24.gif",
         "twitter_hashtags": [
             "#Python",
@@ -279,7 +279,7 @@
         ]
     },
     {
-        "title": "Ohhhh! That’s why coding makes me feel insane",
+        "title": "Ohhhh! That\u2019s why coding makes me feel insane",
         "url": "./images/27.png",
         "twitter_hashtags": [
             "#Python",
@@ -291,7 +291,7 @@
         ]
     },
     {
-        "title": "Please don’t look down at us Python programmers like that Y_Y",
+        "title": "Please don\u2019t look down at us Python programmers like that Y_Y",
         "url": "./images/28.png",
         "twitter_hashtags": [
             "#Python",
@@ -302,7 +302,7 @@
         ]
     },
     {
-        "title": "They C, so we don’t have to.",
+        "title": "They C, so we don\u2019t have to.",
         "url": "./images/29.png",
         "twitter_hashtags": [
             "#Python",
@@ -358,7 +358,7 @@
         ]
     },
     {
-        "title": "Work from home for programmers is like having a sports match in your home stadium. You may have played here before, but it doesn’t make it easier.",
+        "title": "Work from home for programmers is like having a sports match in your home stadium. You may have played here before, but it doesn\u2019t make it easier.",
         "url": "./images/34.png",
         "twitter_hashtags": [
             "#Python",
@@ -369,7 +369,7 @@
         ]
     },
     {
-        "title": "There are 10 kinds of people. Those who understand binary and those who don’t.",
+        "title": "There are 10 kinds of people. Those who understand binary and those who don\u2019t.",
         "url": "./images/35.png",
         "twitter_hashtags": [
             "#Python",
@@ -392,7 +392,7 @@
         ]
     },
     {
-        "title": "I don’t trust people who code in light mode.",
+        "title": "I don\u2019t trust people who code in light mode.",
         "url": "./images/37.png",
         "twitter_hashtags": [
             "#Python",
@@ -438,7 +438,7 @@
         ]
     },
     {
-        "title": "Don’t ask me why I do it, I picked it up from my teacher, who picked it up from their teacher, who picked it…..",
+        "title": "Don\u2019t ask me why I do it, I picked it up from my teacher, who picked it up from their teacher, who picked it\u2026..",
         "url": "./images/41.png",
         "twitter_hashtags": [
             "#Python",
@@ -497,7 +497,7 @@
         ]
     },
     {
-        "title": "May the dark IDE's rise 😂",
+        "title": "May the dark IDE's rise \ud83d\ude02",
         "url": "./images/46.jpg",
         "twitter_hashtags": [
             "#Python",
@@ -552,8 +552,6 @@
             "#developerlife"
         ]
     },
-    
-   
     {
         "title": "Why are they doing this??",
         "url": "./images/ezgif-6-840932770a.gif",
@@ -680,7 +678,7 @@
         ]
     },
     {
-        "title": "Just now…this is the exact moment I realized I’m not that good of a programmer.",
+        "title": "Just now this is the exact moment I realized I'm not that good of a programmer.",
         "url": "https://preview.redd.it/vhan6cqjlag81.jpg?width=640&crop=smart&auto=webp&s=ca2d0d731d98316642359308a9f6c2639383661e",
         "twitter_hashtags": [
             "#Python",
@@ -921,115 +919,256 @@
             "#developerlife"
         ]
     },
-  {
-    "title": "The secret truth",
-    "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pdde2xfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/niyebzdpb8dtawlbfuzt.jpg",
-    "twitter_hastags": [
-      "#developerlife",
-      "#programming",
-      "#programmingmemes",
-      "#programmingtruth"
-    ]
-  },
-  {
-    "title": "People do this in Hacktoberfest 😂",
-    "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--QfyTqKi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.redd.it/my9j9gezcf691.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Dfcc0bab63228d963523fcceab8e9d7d09ca7fc69",
-    "hashtags": [
-      "#github",
-      "#developerlife",
-      "#programming",
-      "#programmingmemes",
-      "#opensource",
-      "#programminghumor"
-    ]
-  },
-  {
-    "title": "Relatable",
-    "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--ONXVBZP1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yct6imbgnha6gw30dg9j.jpg",
-    "hashtags": [
-      "#bitcoin",
-      "#crypto",
-      "#programming"
-    ]
-  },
-  {
-    "title": "Never get trapped into the interviewers.",
-    "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--PiUUgqns--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zvlbj1vzo4bc2yfrvz0i.jpg",
-    "hashtags": [
-      "#programming",
-      "#developerlife",
-      "#programminghumor",
-      "#programmingmemes"
-    ]
-  },
-  {
-    "title": "Back-end talking to Front-end be like.",
-    "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--d4AaO7x3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.devdojo.com/fun/March2022/07ezjk7wvxp81.png",
-    "hashtags": [
-      "#backend",
-      "#frontend",
-      "#programming",
-      "#python",
-      "#javascript",
-      "#HTML",
-      "#fullstack",
-      "#programminghumor",
-      "#programmingmemes"
-    ]
-  },
-  {
-    "title": "Always look what you left behind",
-    "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--vqAu71yB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/kdt4yknzql591.png",
-    "hashtags": [
-      "#programming",
-      "#developerlife",
-      "#programminghumor",
-      "#programmingmemes"
-    ]
-  },
-
-  {
-    "title": "Me in real life",
-    "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--fZ2Yl3_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://starecat.com/content/wp-content/uploads/my-boss-thanking-me-for-fixing-the-bugs-in-production-me-reverting-my-last-commit.jpg",
-    "hashtags": [
-      "#programming",
-      "#developerlife",
-      "#programmingmemes",
-      "#programminghumor"
-    ]
-  },
-
-  {
-    "title": "Legendary developers.",
-    "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--fZ2Yl3_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://starecat.com/content/wp-content/uploads/my-boss-thanking-me-for-fixing-the-bugs-in-production-me-reverting-my-last-commit.jpg",
-    "hashtags": [
-      "#programming",
-      "#C",
-      "#CPP",
-      "#developelife",
-      "#programmingmemes",
-      "#programminghumor"
-    ]
-  },
-  {
-    "title": "Fixing bug in production.",
-    "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--6XAKRkvr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/EZgVQVBWAAYzfG9.jpg",
-    "hashtags": [
-      "#programming",
-      "#programmingmemes",
-      "#programminghumor",
-      "#devloperlife",
-      "#devops"
-    ]
-  }
+    {
+        "title": "The secret truth",
+        "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pdde2xfR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/niyebzdpb8dtawlbfuzt.jpg",
+        "twitter_hastags": [
+            "#developerlife",
+            "#programming",
+            "#programmingmemes",
+            "#programmingtruth"
+        ]
+    },
+    {
+        "title": "People do this in Hacktoberfest !",
+        "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--QfyTqKi2--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://preview.redd.it/my9j9gezcf691.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Dfcc0bab63228d963523fcceab8e9d7d09ca7fc69",
+        "hashtags": [
+            "#github",
+            "#developerlife",
+            "#programming",
+            "#programmingmemes",
+            "#opensource",
+            "#programminghumor"
+        ]
+    },
+    {
+        "title": "Relatable",
+        "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--ONXVBZP1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yct6imbgnha6gw30dg9j.jpg",
+        "hashtags": [
+            "#bitcoin",
+            "#crypto",
+            "#programming"
+        ]
+    },
+    {
+        "title": "Never get trapped into the interviewers.",
+        "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--PiUUgqns--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zvlbj1vzo4bc2yfrvz0i.jpg",
+        "hashtags": [
+            "#programming",
+            "#developerlife",
+            "#programminghumor",
+            "#programmingmemes"
+        ]
+    },
+    {
+        "title": "Back-end talking to Front-end be like.",
+        "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--d4AaO7x3--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.devdojo.com/fun/March2022/07ezjk7wvxp81.png",
+        "hashtags": [
+            "#backend",
+            "#frontend",
+            "#programming",
+            "#python",
+            "#javascript",
+            "#HTML",
+            "#fullstack",
+            "#programminghumor",
+            "#programmingmemes"
+        ]
+    },
+    {
+        "title": "Always look what you left behind",
+        "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--vqAu71yB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.redd.it/kdt4yknzql591.png",
+        "hashtags": [
+            "#programming",
+            "#developerlife",
+            "#programminghumor",
+            "#programmingmemes"
+        ]
+    },
+    {
+        "title": "Me in real life",
+        "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--fZ2Yl3_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://starecat.com/content/wp-content/uploads/my-boss-thanking-me-for-fixing-the-bugs-in-production-me-reverting-my-last-commit.jpg",
+        "hashtags": [
+            "#programming",
+            "#developerlife",
+            "#programmingmemes",
+            "#programminghumor"
+        ]
+    },
+    {
+        "title": "Legendary developers.",
+        "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--fZ2Yl3_I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://starecat.com/content/wp-content/uploads/my-boss-thanking-me-for-fixing-the-bugs-in-production-me-reverting-my-last-commit.jpg",
+        "hashtags": [
+            "#programming",
+            "#C",
+            "#CPP",
+            "#developelife",
+            "#programmingmemes",
+            "#programminghumor"
+        ]
+    },
+    {
+        "title": "Fixing bug in production.",
+        "url": "https://res.cloudinary.com/practicaldev/image/fetch/s--6XAKRkvr--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://pbs.twimg.com/media/EZgVQVBWAAYzfG9.jpg",
+        "hashtags": [
+            "#programming",
+            "#programmingmemes",
+            "#programminghumor",
+            "#devloperlife",
+            "#devops"
+        ]
+    },
+    {
+        "title": "Knew It All Along",
+        "url": "https://i.pinimg.com/564x/79/ef/b9/79efb9a061f2d90653513a07bed7b55b.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes",
+            "#Artificial_Intelligence "
+        ]
+    },
+    {
+        "title": "Difference Between Mugles And Programmers",
+        "url": "https://i.pinimg.com/564x/fe/83/8d/fe838d72e62a9209b272aa06556ce63d.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes"
+        ]
+    },
+    {
+        "title": "Don't Laugh",
+        "url": "https://i.pinimg.com/564x/0d/18/51/0d18513f34ed94ab2429e4f97700d803.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes",
+            "#Intern"
+        ]
+    },
+    {
+        "title": "",
+        "url": "https://i.pinimg.com/564x/86/6d/88/866d881f8105fc106d438c21cbe98746.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes"
+        ]
+    },
+    {
+        "title": "",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Jokes-Studying-Software-Engineering-850x1024.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes"
+        ]
+    },
+    {
+        "title": "Over-Killing Hello World! Program",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Hello-World-893x1024.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes",
+            "#HelloWorld"
+        ]
+    },
+    {
+        "title": "Are you a robot",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Are-you-a-robot-Meme-1024x925.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes",
+            "#Captacha"
+        ]
+    },
+    {
+        "title": "Bugs And Errors In Code Be Like",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Jokes-Bugs-Errors-Lines-of-Code-854x1024.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes"
+        ]
+    },
+    {
+        "title": "Most Inspiring Quote Ever!",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Internet-Explorer-Joke-915x1024.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes",
+            "#InternetExplorer"
+        ]
+    },
+    {
+        "title": "",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Mark-Zuckerberg-Meme-878x1024.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes",
+            "#Facebook",
+            "#WhatsApp"
+        ]
+    },
+    {
+        "title": "Corrona VS Programmers",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Memes-Corona-Virus-859x1024.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes",
+            "#COVID-19"
+        ]
+    },
+    {
+        "title": "Engineering College VS YouTube Programming videos",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-YouTube-Programming-Videos-823x1024.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes"
+        ]
+    },
+    {
+        "title": "Internet Explorer",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Internet-Explorer-Joke-Meme-1024x954.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes"
+        ]
+    },
+    {
+        "title": "Online Courses",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Online-Courses-Memes-1024x933.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes"
+        ]
+    },
+    {
+        "title": "Brain Of a Programmer",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Jokes-Programmer-Life-1024x955.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes"
+        ]
+    },
+    {
+        "title": "Java And Semicolons",
+        "url": "https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Java-Jokes-842x1024.jpg",
+        "twitter_hahstags": [
+            "#programming",
+            "#programminghumor",
+            "#programmingmemes",
+            "#Java"
+        ]
+    }
 ]
-
-
-
-
-
-
-
-
-
-
