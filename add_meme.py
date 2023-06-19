@@ -11,7 +11,7 @@ hashtags = [
 ]
 
 while True:
-    hashtag = input("Enter hashtag: ")
+    hashtag = input("Enter hashtag (press 'q' to stop): ")
     if hashtag == 'q': break
     hashtags.append(hashtag)
 
