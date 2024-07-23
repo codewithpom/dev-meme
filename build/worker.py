@@ -30,3 +30,6 @@ if __name__ == "__main__":
     print(data)
     with open('README.md', 'w') as f:
         f.write(data)
+
+
+        write some random things
